@@ -30,25 +30,25 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 
 ### <a name="skills">Education</a>
 
-#### Makers Academy (March 2020 to present)
-Highly selective 12 week intensive coding bootcamp.
+#### Full stack development (March 2020 to present)
 
-- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
-- Object oriented programming & software design
-- Full stack web development
-- Curiosity and a hungry passion for code
-- Independent learner and problem-solver
-- Aspiration to software craftsmanship
-- Experience with MVC framework patterns
-- Final project...
+Makers Academy
 
-#### University of Reading (September 2007 to July 2009)
+#### Certificate in Business Accounting (2011)
 
-Post graduate Diploma in Surveying
+Chartered Institute of Management Accountants
 
-#### University of Bristol (September 2002 to July 2006)
+#### PG Diploma in Surveying (2007 to 2009)
 
-MSc in Physics with Astrophysics
+Universtity of Reading
+
+#### Masters in Physics with Astrophyics (2003 to 2007)
+
+University of Bristol
+
+#### A Levels, AS Levels & GCSEs (2000 to 2003)
+
+4 x A Levels (3A,1B), 1 x AS Level (A), 9 x GCSE (3A*,5A,1B)
 
 ***
 
@@ -74,7 +74,7 @@ Responsible for team of 12 people...
 
 ### <a name="contact">Contact</a>
 - Github: [ian-1][1]
-- Twitter: [@ian_w_1](https://twitter.com/ian-1)
+- Twitter: [@ian_w_1](https://twitter.com/ian_w_1)
 - Codewars http://www.codewars.com/users/ian-1
 - Coding Site: [walton.one](http://www.walton.one)
 

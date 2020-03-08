@@ -7,7 +7,6 @@
 ### <a name="languages">Languages</a>
 
 --- | --- | --- | --- | ---
-
 Started programming at age  of 8 in BASIC, then QBasic, followed by Visual Basic at university | Final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through online Harvard CS50 course in Computer Science (includes JavaScript)
 
 ***

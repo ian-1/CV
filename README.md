@@ -12,14 +12,10 @@ Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic 
 
 ### <a name="skills">Skills</a>
 
-- **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in Angular 2 and Typescript with no prior experience.
-- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
-- **Creative** - As a photographer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
-- **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
-- **Attention to detail** - From my own shoots, to retouching and operating on advertising shoots, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
-- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
-- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
-- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+- **Analysis** - Regularly dealt with a large quantity of data providing useful summary information and commentary to support management decisions. I have developed very strong Excel skills.
+- **Organisation** - Self motivated having set up and run my own company. I have previously managed 3 teams with responsibility for 11 members of staff.
+- **Communication** - Successful in communicating both within a company and to clients including significant experience in conflict resolution. I work well with a wide range of people having worked in both social housing and commercial property.
+- **Driving** - Full clean UK driving licence
 
 ***
 

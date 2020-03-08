@@ -30,25 +30,15 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 
 ### <a name="skills">Education</a>
 
-#### Full stack development (March 2020 to present)
+****Full stack development (2020)**** - Makers Academy
 
-Makers Academy
+****Certificate in Business Accounting (2011)**** - Chartered Institute of Management Accountants
 
-#### Certificate in Business Accounting (2011)
+****PG Diploma in Surveying (2009)**** - University of Reading
 
-Chartered Institute of Management Accountants
+****Masters in Physics with Astrophyics (2006)**** - University of Bristol
 
-#### PG Diploma in Surveying (2007 to 2009)
-
-Universtity of Reading
-
-#### Masters in Physics with Astrophyics (2003 to 2007)
-
-University of Bristol
-
-#### A Levels, AS Levels & GCSEs (2000 to 2003)
-
-4 x A Levels (3A,1B), 1 x AS Level (A), 9 x GCSE (3A*,5A,1B)
+A Levels (2002) - 3 x A, 1 x B; AS Levels (2001) - 1 x A; GCSEs (2000) - 3 x A*, 5 x A, 1 x B
 
 ***
 

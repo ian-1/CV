@@ -5,8 +5,8 @@
 [Portfolio](https://www.lukecartledge.com)
 
 ### <a name="languages">Languages</a>
-1 | 2 | 3 | 4
---- | --- | --- | --- | ---
+|||||
+--- | --- | --- | ---
 Started programming at age  of 8 in BASIC, then QBasic, followed by Visual Basic at university | Final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through online Harvard CS50 course in Computer Science (includes JavaScript)
 
 ***

@@ -2,9 +2,8 @@
 
 ***
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](https://www.lukecartledge.com)
+[Portfolio](https://www.walton.one)
 
-### <a name="languages">Languages</a>
 Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic at university | Masters final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through Makers Academy course learning full stack development (includes Ruby & JavaScript)|
 --- | --- | --- | ---
 
@@ -75,7 +74,7 @@ Responsible for team of 12 people...
 
 ### <a name="contact">Contact</a>
 - Github: [ian-1][1]
-- Twitter: [@ian-1](https://twitter.com/ian-1)
+- Twitter: [@ian_w_1](https://twitter.com/ian-1)
 - Codewars http://www.codewars.com/users/ian-1
 - Coding Site: [walton.one](http://www.walton.one)
 

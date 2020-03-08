@@ -4,11 +4,12 @@
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.lukecartledge.com)
 
-A full-stack junior web developer specialising in the front-end. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+### <a name="languages">Languages</a>
 
-Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
+--- | --- | --- | --- | ---
 
-I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+Started programming at age  of 8 in BASIC, then QBasic, followed by Visual Basic at university | Final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through online Harvard CS50 course in Computer Science (includes JavaScript)
+
 ***
 
 ### <a name="skills">Skills</a>

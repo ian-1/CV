@@ -32,29 +32,48 @@ Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic 
 
 ****PG Diploma in Surveying (2009)**** - University of Reading
 
-****Masters in Physics with Astrophyics (2006)**** - University of Bristol
+****Masters in Physics with Astrophyics (2005)**** - University of Bristol
 
-A Levels (2002) - 3 x A, 1 x B; AS Levels (2001) - 1 x A; GCSEs (2000) - 3 x A*, 5 x A, 1 x B
+A Levels (2003) - 3 x A, 1 x B; AS Levels (2001) - 1 x A; GCSEs (2000) - 3 x A*, 5 x A, 1 x B
 
 ***
 
 ### <a name="experience">Experience</a>
 
-**Portmoor** (June 2013 to Current)
-*Lettings Director*
+**Portmoor** (June 2013 to Present)
+*Managing Director*
+
+ - Set up and ran my own successful business;
+ - Involved in all aspects from winning instructions to delivering service;
+ - Passed business to family member as a profitable, growing company;
 
 **Atkinson Mcleod** (March 2009 to May 2013)   
-*Head of Accounts and Property Management*  
-Responsible for team of 12 people...
+*Management Accounts / Head of Department*  
+ - Promoted repeatedly from temporary position to Head of Department;
+ - Produced weekly reports for directors on core key performance indicators for the business;
+ - Managed small claim cases ranging from claiming for unpaid fees to defending breach of contract claims, regularly attended court on behalf of the company;
+ - Set up, implemented and monitored a number of changes in systems across the company including overhauling work flow structures and setting up new commission systems for two departments;
+
+ **Jones Lang LaSalle** (September 2007 to June 2009)   
+ *Commercial Property*  
+ - Valued around £400m worth of property on a monthly basis;
+ - Detailed economic analysis with an emphasis on property investment and commercial lettings market;
+ - Created investment forecasting models for presentation with clients;
+
+ **Circle Anglia** (September 2006 to July 2007)   
+ *Residential Property*  
+ - Promoted to manage the ‘Right to Buy’ scheme in a Large Housing Association;
+ - Created and implemented new processes with strict compliance with legislation;
 
 ***
 
 ### <a name="interests">Interests</a>
 
-- **Coding** - Obviously
-- **Snowboarding**
-- **Books** - I seem to read a lot
-- **Running**
+- **Coding** - Obviously!
+- **Hiking** - Experienced hiker, have organised a number of walking expeditions 
+- **Running** - Enjoy long distance running, races have included the London Marathon
+- **Travelling** - Travelled widely inc. Far East, India, Middle East, Southern Africa, North America & Europe
+- **Social Media** - Built twitter account to over 8k followers in 12 months (now 11.7k) with up to 0.25million impressions a month
 
 ***
 

@@ -34,7 +34,7 @@ Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic 
 
 ****Masters in Physics with Astrophyics (2005)**** - University of Bristol
 
-A Levels (2003) - 3 x A, 1 x B; AS Levels (2001) - 1 x A; GCSEs (2000) - 3 x A*, 5 x A, 1 x B
+A Levels (2003) - 3 x A, 1 x B; AS Levels (2002) - 1 x A; GCSEs (2000) - 3 x A*, 5 x A, 1 x B
 
 ***
 

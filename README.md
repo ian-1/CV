@@ -26,7 +26,7 @@ Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic 
 
 ### <a name="skills">Education</a>
 
-****Software Engineering bootcamp (2020)**** - Makers Academy
+****Software Engineering bootcamp (2021)**** - Makers Academy
 
 ****Certificate in Business Accounting (2011)**** - Chartered Institute of Management Accountants
 

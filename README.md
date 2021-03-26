@@ -4,7 +4,9 @@
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.walton.one)
 
-Intro about me...
+Started programming at age eight in **BASIC**, then **QBasic**. At university I followed another of my passions to study **Astrophysics** at the **University of Bristol** (during. this time I still managed to shoehorn in some programming - my **Masters** final year research project automated detection of variable stars using STILTS in **Java**). My professional life since took me in a different direction, I trained in **Surveying** joining **Jones Lang LaSalle** and later progressing onto running my own small property company. During this time my main exposure to coding was building a property **website** for my company using **HTML** and **CSS**.
+
+A year ago with the onset of the lock down and with major changes in my life (both getting married and more recently the birth of my son) I have picked up again on my passion for programming. I have built a number of built desktop applications using tkinter in **Python** and am currently part way through **Makers Academy** course learning **full stack development** (includes **Ruby** & **JavaScript**).
 
 ***
 
@@ -19,8 +21,7 @@ Intro about me...
 
 ### <a name="projects">Projects & Code</a>
 
-Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic at university | Masters final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through Makers Academy course learning full stack development (includes Ruby & JavaScript)|
---- | --- | --- | ---
+Started programming at age of 8 in BASIC, then QBasic, followed by Visual Basic at university | Masters final year research project automated detection of variable stars using STILTS in Java | Built websites using HTML and CSS. Built desktop applications using tkinter in Python | Part way through Makers Academy course learning full stack development (includes Ruby & JavaScript)
 
 *All source code available on Github: [https://github.com/ian-1][1]
 

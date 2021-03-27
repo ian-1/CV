@@ -12,7 +12,7 @@ A year ago with the onset of the lock down and with major changes in my life (bo
 
 ### <a name="skills">Skills</a>
 
-- **Analysis** - Regularly dealt with a large quantity of data providing useful summary information and commentary to support management decisions. I have developed very strong Excel skills.
+- **Analysis** - Regularly dealt with a large quantity of data providing useful summary information and commentary to support management decisions. I have developed very strong Excel skills including using **Visual Basic**.
 - **Organisation** - Self motivated having set up and run my own company. I have previously managed 3 teams with responsibility for 11 members of staff.
 - **Communication** - Successful in communicating both within a company and to clients including significant experience in conflict resolution. I work well with a wide range of people having worked in both social housing and commercial property.
 - **Driving** - Full clean UK driving licence
